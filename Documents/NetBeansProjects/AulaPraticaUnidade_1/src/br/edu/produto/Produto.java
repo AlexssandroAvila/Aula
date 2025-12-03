@@ -27,5 +27,3 @@ public static void exibirQuantidadeTotal() {
         System.out.println("Total de produtos cadastrados: " + quantidadeTotal);
 }
 }
-
- 
