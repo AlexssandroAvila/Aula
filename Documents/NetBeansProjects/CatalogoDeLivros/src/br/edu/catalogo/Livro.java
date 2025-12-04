@@ -22,6 +22,6 @@ public class Livro {
         System.out.println("Titulo: " + titulo);
         System.out.println("Autor: " + autor);
         System.out.println("Ano de Publicacao: " + anoPublicacao);
-        System.out.println("--------------------");
+        System.out.println("");
     }
 }
